@@ -1102,6 +1102,7 @@
       </div>
       <p class="footer-made">Made in Delhi, with muddy hands.</p>
     </div>
+    <script id="_wau8or">var _wau = _wau || []; _wau.push(["small", "dxbv1ngk5k", "8or"]);</script><script async src="//waust.at/s.js"></script>
   </footer>
 
   <!-- Back to top -->
